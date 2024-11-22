@@ -1,0 +1,11 @@
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilPdf\bin\Debug\net8.0\UtilPdf.deps.json
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilPdf\bin\Debug\net8.0\UtilPdf.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilPdf\bin\Debug\net8.0\UtilPdf.pdb
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilPdf\obj\Debug\net8.0\UtilPdf.GeneratedMSBuildEditorConfig.editorconfig
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilPdf\obj\Debug\net8.0\UtilPdf.AssemblyInfoInputs.cache
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilPdf\obj\Debug\net8.0\UtilPdf.AssemblyInfo.cs
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilPdf\obj\Debug\net8.0\UtilPdf.csproj.CoreCompileInputs.cache
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilPdf\obj\Debug\net8.0\UtilPdf.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilPdf\obj\Debug\net8.0\refint\UtilPdf.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilPdf\obj\Debug\net8.0\UtilPdf.pdb
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilPdf\obj\Debug\net8.0\ref\UtilPdf.dll

@@ -1,0 +1,11 @@
+E:\proyectos123\cevi\Cevicheria\Cevicheria\Services\bin\Debug\net8.0\Services.deps.json
+E:\proyectos123\cevi\Cevicheria\Cevicheria\Services\bin\Debug\net8.0\Services.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\Services\bin\Debug\net8.0\Services.pdb
+E:\proyectos123\cevi\Cevicheria\Cevicheria\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\proyectos123\cevi\Cevicheria\Cevicheria\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+E:\proyectos123\cevi\Cevicheria\Cevicheria\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+E:\proyectos123\cevi\Cevicheria\Cevicheria\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+E:\proyectos123\cevi\Cevicheria\Cevicheria\Services\obj\Debug\net8.0\Services.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\Services\obj\Debug\net8.0\refint\Services.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\Services\obj\Debug\net8.0\Services.pdb
+E:\proyectos123\cevi\Cevicheria\Cevicheria\Services\obj\Debug\net8.0\ref\Services.dll

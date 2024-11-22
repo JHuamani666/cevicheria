@@ -1,0 +1,1238 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\CevicheriaAPI\\CevicheriaAPI.csproj": {}
+  },
+  "projects": {
+    "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\Bussnies\\Bussnies.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\Bussnies\\Bussnies.csproj",
+        "projectName": "Bussnies",
+        "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\Bussnies\\Bussnies.csproj",
+        "packagesPath": "C:\\Users\\PC FULL\\.nuget\\packages\\",
+        "outputPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\Bussnies\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC FULL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\CommonModels\\CommonModel.csproj": {
+                "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\CommonModels\\CommonModel.csproj"
+              },
+              "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IBussnies\\IBussnies.csproj": {
+                "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IBussnies\\IBussnies.csproj"
+              },
+              "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IModels\\DBModel.csproj": {
+                "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IModels\\DBModel.csproj"
+              },
+              "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IRespository\\IRespository.csproj": {
+                "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IRespository\\IRespository.csproj"
+              },
+              "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IServices\\IServices.csproj": {
+                "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IServices\\IServices.csproj"
+              },
+              "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IUtilitarios\\UltilAutomaper.csproj": {
+                "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IUtilitarios\\UltilAutomaper.csproj"
+              },
+              "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\Models\\Models.csproj": {
+                "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\Models\\Models.csproj"
+              },
+              "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\Repository\\Repository.csproj": {
+                "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\Repository\\Repository.csproj"
+              },
+              "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\RequestResponse\\RequestResponseModel.csproj": {
+                "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\RequestResponse\\RequestResponseModel.csproj"
+              },
+              "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\Services\\Services.csproj": {
+                "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\Services\\Services.csproj"
+              },
+              "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilConstants\\UtilConstants.csproj": {
+                "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilConstants\\UtilConstants.csproj"
+              },
+              "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilExcel\\UtilExcel.csproj": {
+                "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilExcel\\UtilExcel.csproj"
+              },
+              "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilPdf\\UtilPdf.csproj": {
+                "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilPdf\\UtilPdf.csproj"
+              },
+              "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilSecurity\\UtilSecurity.csproj": {
+                "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilSecurity\\UtilSecurity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\CevicheriaAPI\\CevicheriaAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\CevicheriaAPI\\CevicheriaAPI.csproj",
+        "projectName": "CevicheriaAPI",
+        "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\CevicheriaAPI\\CevicheriaAPI.csproj",
+        "packagesPath": "C:\\Users\\PC FULL\\.nuget\\packages\\",
+        "outputPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\CevicheriaAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC FULL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\Bussnies\\Bussnies.csproj": {
+                "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\Bussnies\\Bussnies.csproj"
+              },
+              "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\CommonModels\\CommonModel.csproj": {
+                "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\CommonModels\\CommonModel.csproj"
+              },
+              "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IBussnies\\IBussnies.csproj": {
+                "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IBussnies\\IBussnies.csproj"
+              },
+              "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\RequestResponse\\RequestResponseModel.csproj": {
+                "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\RequestResponse\\RequestResponseModel.csproj"
+              },
+              "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilSecurity\\UtilSecurity.csproj": {
+                "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilSecurity\\UtilSecurity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\CommonModels\\CommonModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\CommonModels\\CommonModel.csproj",
+        "projectName": "CommonModel",
+        "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\CommonModels\\CommonModel.csproj",
+        "packagesPath": "C:\\Users\\PC FULL\\.nuget\\packages\\",
+        "outputPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\CommonModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC FULL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IBussnies\\IBussnies.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IBussnies\\IBussnies.csproj",
+        "projectName": "IBussnies",
+        "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IBussnies\\IBussnies.csproj",
+        "packagesPath": "C:\\Users\\PC FULL\\.nuget\\packages\\",
+        "outputPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IBussnies\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC FULL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IModels\\DBModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IModels\\DBModel.csproj",
+        "projectName": "DBModel",
+        "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IModels\\DBModel.csproj",
+        "packagesPath": "C:\\Users\\PC FULL\\.nuget\\packages\\",
+        "outputPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC FULL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IRespository\\IRespository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IRespository\\IRespository.csproj",
+        "projectName": "IRespository",
+        "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IRespository\\IRespository.csproj",
+        "packagesPath": "C:\\Users\\PC FULL\\.nuget\\packages\\",
+        "outputPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IRespository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC FULL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IServices\\IServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IServices\\IServices.csproj",
+        "projectName": "IServices",
+        "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IServices\\IServices.csproj",
+        "packagesPath": "C:\\Users\\PC FULL\\.nuget\\packages\\",
+        "outputPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC FULL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IUtilitarios\\UltilAutomaper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IUtilitarios\\UltilAutomaper.csproj",
+        "projectName": "UltilAutomaper",
+        "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IUtilitarios\\UltilAutomaper.csproj",
+        "packagesPath": "C:\\Users\\PC FULL\\.nuget\\packages\\",
+        "outputPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IUtilitarios\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC FULL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\Models\\Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\PC FULL\\.nuget\\packages\\",
+        "outputPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC FULL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\PC FULL\\.nuget\\packages\\",
+        "outputPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC FULL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\CommonModels\\CommonModel.csproj": {
+                "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\CommonModels\\CommonModel.csproj"
+              },
+              "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IModels\\DBModel.csproj": {
+                "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IModels\\DBModel.csproj"
+              },
+              "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IRespository\\IRespository.csproj": {
+                "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\IRespository\\IRespository.csproj"
+              },
+              "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\RequestResponse\\RequestResponseModel.csproj": {
+                "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\RequestResponse\\RequestResponseModel.csproj"
+              },
+              "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilConstants\\UtilConstants.csproj": {
+                "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilConstants\\UtilConstants.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\RequestResponse\\RequestResponseModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\RequestResponse\\RequestResponseModel.csproj",
+        "projectName": "RequestResponseModel",
+        "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\RequestResponse\\RequestResponseModel.csproj",
+        "packagesPath": "C:\\Users\\PC FULL\\.nuget\\packages\\",
+        "outputPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\RequestResponse\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC FULL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\PC FULL\\.nuget\\packages\\",
+        "outputPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC FULL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilConstants\\UtilConstants.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilConstants\\UtilConstants.csproj",
+        "projectName": "UtilConstants",
+        "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilConstants\\UtilConstants.csproj",
+        "packagesPath": "C:\\Users\\PC FULL\\.nuget\\packages\\",
+        "outputPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilConstants\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC FULL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilExcel\\UtilExcel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilExcel\\UtilExcel.csproj",
+        "projectName": "UtilExcel",
+        "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilExcel\\UtilExcel.csproj",
+        "packagesPath": "C:\\Users\\PC FULL\\.nuget\\packages\\",
+        "outputPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilExcel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC FULL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilPdf\\UtilPdf.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilPdf\\UtilPdf.csproj",
+        "projectName": "UtilPdf",
+        "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilPdf\\UtilPdf.csproj",
+        "packagesPath": "C:\\Users\\PC FULL\\.nuget\\packages\\",
+        "outputPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilPdf\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC FULL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilSecurity\\UtilSecurity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilSecurity\\UtilSecurity.csproj",
+        "projectName": "UtilSecurity",
+        "projectPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilSecurity\\UtilSecurity.csproj",
+        "packagesPath": "C:\\Users\\PC FULL\\.nuget\\packages\\",
+        "outputPath": "E:\\proyectos123\\cevi\\Cevicheria\\Cevicheria\\UtilSecurity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC FULL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

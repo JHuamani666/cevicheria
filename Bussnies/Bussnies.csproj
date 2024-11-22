@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CommonModels\CommonModel.csproj" />
+    <ProjectReference Include="..\IBussnies\IBussnies.csproj" />
+    <ProjectReference Include="..\IModels\DBModel.csproj" />
+    <ProjectReference Include="..\IRespository\IRespository.csproj" />
+    <ProjectReference Include="..\IServices\IServices.csproj" />
+    <ProjectReference Include="..\IUtilitarios\UltilAutomaper.csproj" />
+    <ProjectReference Include="..\Models\Models.csproj" />
+    <ProjectReference Include="..\Repository\Repository.csproj" />
+    <ProjectReference Include="..\RequestResponse\RequestResponseModel.csproj" />
+    <ProjectReference Include="..\Services\Services.csproj" />
+    <ProjectReference Include="..\UtilConstants\UtilConstants.csproj" />
+    <ProjectReference Include="..\UtilExcel\UtilExcel.csproj" />
+    <ProjectReference Include="..\UtilPdf\UtilPdf.csproj" />
+    <ProjectReference Include="..\UtilSecurity\UtilSecurity.csproj" />
+  </ItemGroup>
+
+</Project>

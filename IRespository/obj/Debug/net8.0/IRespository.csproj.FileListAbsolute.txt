@@ -1,0 +1,11 @@
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IRespository\bin\Debug\net8.0\IRespository.deps.json
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IRespository\bin\Debug\net8.0\IRespository.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IRespository\bin\Debug\net8.0\IRespository.pdb
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IRespository\obj\Debug\net8.0\IRespository.GeneratedMSBuildEditorConfig.editorconfig
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IRespository\obj\Debug\net8.0\IRespository.AssemblyInfoInputs.cache
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IRespository\obj\Debug\net8.0\IRespository.AssemblyInfo.cs
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IRespository\obj\Debug\net8.0\IRespository.csproj.CoreCompileInputs.cache
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IRespository\obj\Debug\net8.0\IRespository.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IRespository\obj\Debug\net8.0\refint\IRespository.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IRespository\obj\Debug\net8.0\IRespository.pdb
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IRespository\obj\Debug\net8.0\ref\IRespository.dll

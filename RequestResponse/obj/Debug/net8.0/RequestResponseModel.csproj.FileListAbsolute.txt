@@ -1,0 +1,11 @@
+E:\proyectos123\cevi\Cevicheria\Cevicheria\RequestResponse\bin\Debug\net8.0\RequestResponseModel.deps.json
+E:\proyectos123\cevi\Cevicheria\Cevicheria\RequestResponse\bin\Debug\net8.0\RequestResponseModel.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\RequestResponse\bin\Debug\net8.0\RequestResponseModel.pdb
+E:\proyectos123\cevi\Cevicheria\Cevicheria\RequestResponse\obj\Debug\net8.0\RequestResponseModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\proyectos123\cevi\Cevicheria\Cevicheria\RequestResponse\obj\Debug\net8.0\RequestResponseModel.AssemblyInfoInputs.cache
+E:\proyectos123\cevi\Cevicheria\Cevicheria\RequestResponse\obj\Debug\net8.0\RequestResponseModel.AssemblyInfo.cs
+E:\proyectos123\cevi\Cevicheria\Cevicheria\RequestResponse\obj\Debug\net8.0\RequestResponseModel.csproj.CoreCompileInputs.cache
+E:\proyectos123\cevi\Cevicheria\Cevicheria\RequestResponse\obj\Debug\net8.0\RequestResponseModel.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\RequestResponse\obj\Debug\net8.0\refint\RequestResponseModel.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\RequestResponse\obj\Debug\net8.0\RequestResponseModel.pdb
+E:\proyectos123\cevi\Cevicheria\Cevicheria\RequestResponse\obj\Debug\net8.0\ref\RequestResponseModel.dll

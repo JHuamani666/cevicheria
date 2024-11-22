@@ -1,0 +1,14 @@
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilSecurity\bin\Debug\net8.0\UtilSecurity.deps.json
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilSecurity\bin\Debug\net8.0\UtilSecurity.runtimeconfig.json
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilSecurity\bin\Debug\net8.0\UtilSecurity.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilSecurity\bin\Debug\net8.0\UtilSecurity.pdb
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilSecurity\obj\Debug\net8.0\UtilSecurity.csproj.AssemblyReference.cache
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilSecurity\obj\Debug\net8.0\UtilSecurity.GeneratedMSBuildEditorConfig.editorconfig
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilSecurity\obj\Debug\net8.0\UtilSecurity.AssemblyInfoInputs.cache
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilSecurity\obj\Debug\net8.0\UtilSecurity.AssemblyInfo.cs
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilSecurity\obj\Debug\net8.0\UtilSecurity.csproj.CoreCompileInputs.cache
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilSecurity\obj\Debug\net8.0\UtilSecurity.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilSecurity\obj\Debug\net8.0\refint\UtilSecurity.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilSecurity\obj\Debug\net8.0\UtilSecurity.pdb
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilSecurity\obj\Debug\net8.0\UtilSecurity.genruntimeconfig.cache
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilSecurity\obj\Debug\net8.0\ref\UtilSecurity.dll

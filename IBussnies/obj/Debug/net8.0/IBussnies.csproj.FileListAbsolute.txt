@@ -1,0 +1,11 @@
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IBussnies\bin\Debug\net8.0\IBussnies.deps.json
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IBussnies\bin\Debug\net8.0\IBussnies.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IBussnies\bin\Debug\net8.0\IBussnies.pdb
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IBussnies\obj\Debug\net8.0\IBussnies.GeneratedMSBuildEditorConfig.editorconfig
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IBussnies\obj\Debug\net8.0\IBussnies.AssemblyInfoInputs.cache
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IBussnies\obj\Debug\net8.0\IBussnies.AssemblyInfo.cs
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IBussnies\obj\Debug\net8.0\IBussnies.csproj.CoreCompileInputs.cache
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IBussnies\obj\Debug\net8.0\IBussnies.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IBussnies\obj\Debug\net8.0\refint\IBussnies.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IBussnies\obj\Debug\net8.0\IBussnies.pdb
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IBussnies\obj\Debug\net8.0\ref\IBussnies.dll

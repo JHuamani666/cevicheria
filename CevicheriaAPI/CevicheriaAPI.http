@@ -1,0 +1,6 @@
+@CevicheriaAPI_HostAddress = http://localhost:5074
+
+GET {{CevicheriaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,14 @@
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilConstants\bin\Debug\net8.0\UtilConstants.deps.json
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilConstants\bin\Debug\net8.0\UtilConstants.runtimeconfig.json
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilConstants\bin\Debug\net8.0\UtilConstants.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilConstants\bin\Debug\net8.0\UtilConstants.pdb
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilConstants\obj\Debug\net8.0\UtilConstants.csproj.AssemblyReference.cache
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilConstants\obj\Debug\net8.0\UtilConstants.GeneratedMSBuildEditorConfig.editorconfig
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilConstants\obj\Debug\net8.0\UtilConstants.AssemblyInfoInputs.cache
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilConstants\obj\Debug\net8.0\UtilConstants.AssemblyInfo.cs
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilConstants\obj\Debug\net8.0\UtilConstants.csproj.CoreCompileInputs.cache
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilConstants\obj\Debug\net8.0\UtilConstants.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilConstants\obj\Debug\net8.0\refint\UtilConstants.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilConstants\obj\Debug\net8.0\UtilConstants.pdb
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilConstants\obj\Debug\net8.0\UtilConstants.genruntimeconfig.cache
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilConstants\obj\Debug\net8.0\ref\UtilConstants.dll

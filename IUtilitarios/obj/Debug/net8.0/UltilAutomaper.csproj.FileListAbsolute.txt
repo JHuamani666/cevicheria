@@ -1,0 +1,12 @@
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IUtilitarios\bin\Debug\net8.0\UltilAutomaper.deps.json
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IUtilitarios\bin\Debug\net8.0\UltilAutomaper.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IUtilitarios\bin\Debug\net8.0\UltilAutomaper.pdb
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IUtilitarios\obj\Debug\net8.0\UltilAutomaper.csproj.AssemblyReference.cache
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IUtilitarios\obj\Debug\net8.0\UltilAutomaper.GeneratedMSBuildEditorConfig.editorconfig
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IUtilitarios\obj\Debug\net8.0\UltilAutomaper.AssemblyInfoInputs.cache
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IUtilitarios\obj\Debug\net8.0\UltilAutomaper.AssemblyInfo.cs
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IUtilitarios\obj\Debug\net8.0\UltilAutomaper.csproj.CoreCompileInputs.cache
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IUtilitarios\obj\Debug\net8.0\UltilAutomaper.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IUtilitarios\obj\Debug\net8.0\refint\UltilAutomaper.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IUtilitarios\obj\Debug\net8.0\UltilAutomaper.pdb
+E:\proyectos123\cevi\Cevicheria\Cevicheria\IUtilitarios\obj\Debug\net8.0\ref\UltilAutomaper.dll

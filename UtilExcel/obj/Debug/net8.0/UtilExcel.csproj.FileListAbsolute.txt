@@ -1,0 +1,11 @@
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilExcel\bin\Debug\net8.0\UtilExcel.deps.json
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilExcel\bin\Debug\net8.0\UtilExcel.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilExcel\bin\Debug\net8.0\UtilExcel.pdb
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilExcel\obj\Debug\net8.0\UtilExcel.GeneratedMSBuildEditorConfig.editorconfig
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilExcel\obj\Debug\net8.0\UtilExcel.AssemblyInfoInputs.cache
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilExcel\obj\Debug\net8.0\UtilExcel.AssemblyInfo.cs
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilExcel\obj\Debug\net8.0\UtilExcel.csproj.CoreCompileInputs.cache
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilExcel\obj\Debug\net8.0\UtilExcel.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilExcel\obj\Debug\net8.0\refint\UtilExcel.dll
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilExcel\obj\Debug\net8.0\UtilExcel.pdb
+E:\proyectos123\cevi\Cevicheria\Cevicheria\UtilExcel\obj\Debug\net8.0\ref\UtilExcel.dll

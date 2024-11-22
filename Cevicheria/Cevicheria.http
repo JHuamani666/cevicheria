@@ -1,0 +1,6 @@
+@Cevicheria_HostAddress = http://localhost:5029
+
+GET {{Cevicheria_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
